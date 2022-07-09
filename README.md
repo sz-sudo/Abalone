@@ -1,2 +1,2 @@
 # Abalone-Godot
- An implementation of Abalone in Godot Engine
+ An implementation of Abalone with Godot Engine
